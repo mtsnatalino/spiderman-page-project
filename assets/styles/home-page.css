@@ -1,0 +1,6 @@
+@import url('/assets/styles/global.css');
+@import url('/assets/styles/reset.css');
+
+body{
+    background-color: var(--primary-color);
+}
