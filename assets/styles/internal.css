@@ -2,6 +2,8 @@
 @import url('global.css');
 @import url('components/navigator.css');
 @import url('components/pills.css');
+@import url('components/link-button.css');
+@import url('components/gallery.css');
 
 .s-wrapper{
     display: flex;
@@ -64,4 +66,13 @@
 
 .s-wrapper .s-main-content__top .s-description .pills {
     margin-bottom: 1.25rem;
+}
+
+.s-wrapper .s-main-content .s-links {
+    padding: 1.25rem;
+    padding-left: 0;
+}
+
+.s-wrapper .s-main-content .s-links ul{
+    display: flex;
 }

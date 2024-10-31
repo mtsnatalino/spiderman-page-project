@@ -1,0 +1,34 @@
+a.link-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+  }
+  
+  a.link-button .icon{
+    width: 2rem;
+    height: 2rem;
+    padding: 0.1875rem;
+    background-color: var(--primary-color);
+    border: solid 0.0625rem #fff;
+    background-clip: content-box;
+    border-radius: 50%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  a.link-button .icon .play-icon{
+    border:solid 0.4375rem #fff;
+    width:0;
+    height: 0;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    margin-right: -0.4375rem;
+  }
+  
+  a.link-button .label{
+    margin-left: 0.625rem;
+  }
