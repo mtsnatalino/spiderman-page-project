@@ -12,10 +12,7 @@
     background-color: #808080;
 }
 
-.s-wrapper video {
-    position: fixed;
-    width: 100%;
-}
+
 
 .s-wrapper .s-left-column {
     width: 100px;
@@ -92,9 +89,24 @@
 .s-spiderman-01-02 {
     background-image: url('../images/spiderman-tobey/movie-02/background.png');
     background-size: cover;
-  }
+}
   
-  .s-spiderman-01-03 {
+.s-spiderman-01-03 {
     background-image: url('../images/spiderman-tobey/movie-03/background.png');
     background-size: cover;
-  }
+}
+
+.s-spiderman-02-01 {
+    background-image: url('../images/spiderman-tom/movie-01/background.png');
+    background-size: cover;
+}
+
+.s-spiderman-02-02 {
+    background-image: url('../images/spiderman-tom/movie-02/background.png');
+    background-size: cover;
+}
+
+.s-spiderman-02-03 {
+    background-image: url('../images/spiderman-tom/movie-03/background.png');
+    background-size: cover;
+}
