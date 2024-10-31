@@ -19,3 +19,7 @@ function addEventListenersToCards() {
 }
 
 document.addEventListener("DOMContentLoaded", addEventListenersToCards, false);
+
+function selectCarouselItem(selectedItem) {
+    
+}
