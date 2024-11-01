@@ -1,4 +1,5 @@
 Spider-Man Movie Universe
+
 🕸️ Sobre o Projeto
 Este projeto apresenta uma página completa dedicada ao universo cinematográfico do Homem-Aranha (Spider-Man). A página traz uma linha do tempo dos filmes, 
 diretores, enredo de cada longa-metragem e a evolução do personagem ao longo dos anos.
