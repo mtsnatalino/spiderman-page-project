@@ -110,3 +110,13 @@
     background-image: url('../images/spiderman-tom/movie-03/background.png');
     background-size: cover;
 }
+
+.s-spiderman-03-01 {
+    background-image: url('../images/spiderman-andrew/movie-01/background.png');
+    background-size: cover;
+}
+
+.s-spiderman-03-02 {
+    background-image: url('../images/spiderman-andrew/movie-02/background.png');
+    background-size: cover;
+}
